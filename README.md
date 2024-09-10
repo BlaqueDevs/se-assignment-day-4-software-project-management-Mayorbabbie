@@ -52,15 +52,16 @@ Examples
 3.Manual Testing
 4. Code Reviews and Pair Programming
 5. Maintain and Improve Documentation
+   
 Importance
 1. Customer Satisfaction
 2. Reduced Costs
 3. Reputation and Trust
-4. Security
-5. Compliance
+4. Security & Compliance
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 Defining Project Scope and Its Contribution to Successful Project Planning
+
 Defining the project scope is crucial for project planning as it outlines the specific objectives, deliverables, boundaries, and requirements of the project. It ensures that all stakeholders have a clear understanding of what is to be achieved and helps prevent scope creep, where additional features or tasks are added without proper approval. A well-defined scope:
 
 1. Sets clear goals and expectations.
